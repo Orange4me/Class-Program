@@ -3,7 +3,7 @@
 namespace W01
 {
 
-    public class Program
+    public class program
     {
         public static void Main(string[] args)
         {
